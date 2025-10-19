@@ -1,7 +1,7 @@
 ﻿{
   "name": "Fyngrd1st",
   "symbol": "Fn1st",
-  "description": "Fyngrd1st — community token of the FrankyFngz validator on X1.",
+  "description": "Your wallet has been FINGERED FIRST by FrankFyveFingerz First Meme on X1 delegate to my Validator.",
   "image": "https://raw.githubusercontent.com/SpartanXen/fn1st-meta/main/Screenshot%202025-10-18%20013633.png",
   "external_url": "https://x.com/FrankyFyve",
   "attributes": [
@@ -10,3 +10,4 @@
     { "trait_type": "Supply", "value": "304000000" }
   ]
 }
+
