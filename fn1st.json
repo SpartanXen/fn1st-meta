@@ -1,0 +1,12 @@
+﻿{
+  "name": "Fyngrd1st",
+  "symbol": "Fn1st",
+  "description": "Fyngrd1st — community token of the FrankyFngz validator on X1.",
+  "image": "https://raw.githubusercontent.com/SpartanXen/fn1st-meta/main/Screenshot%202025-10-18%20013633.png",
+  "external_url": "https://x.com/FrankyFyve",
+  "attributes": [
+    { "trait_type": "Network", "value": "X1" },
+    { "trait_type": "Decimals", "value": "6" },
+    { "trait_type": "Supply", "value": "304000000" }
+  ]
+}
